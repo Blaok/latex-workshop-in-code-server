@@ -16,7 +16,7 @@ This script can automatically forward ports used by LaTeX Workshop and thus
 
 ## Assumptions
 
-+ A client to the brower.
++ A client to run the brower.
 + A server to run code-server and LaTeX Workshop.
 + `ssh` connection between the client and the server.
 + The `ssh` client supports `ControlMaster`.
